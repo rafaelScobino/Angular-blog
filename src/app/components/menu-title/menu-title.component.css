@@ -1,0 +1,15 @@
+.menu-title_container h1{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif ;
+    font-weight: bold;
+    color: white;
+    font-size: 150px;
+    display: flex;
+    justify-content: center;
+}
+.menu-title_container hr {
+    margin: 5px 0;
+    border-color: black;
+    border-width: 2px;
+    border-style:solid;
+}

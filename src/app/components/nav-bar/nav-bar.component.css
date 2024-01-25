@@ -1,0 +1,15 @@
+.nav-bar_container{
+    margin-top: 15px;
+    margin-left: 15px;
+
+}
+
+.nav-bar_container ul{
+    display: flex;
+    flex-direction: row;
+}
+
+.nav-bar_container ul li{
+    margin-right: 20px;
+    list-style: none;
+}

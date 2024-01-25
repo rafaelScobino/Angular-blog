@@ -1,0 +1,14 @@
+.contact-info_container{
+    margin-top: 15px;
+}
+
+.contact-info_container ul{
+    margin: 10px 15px;
+
+    display: flex;
+    flex-direction: row;
+}
+.contact-info_container ul li{
+    margin-right: 20px;
+    list-style: none;
+}
